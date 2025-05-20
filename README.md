@@ -8,7 +8,7 @@ After university, I worked as a full-time Software Engineer for MOR Solutions Lt
 
 Today, I am once again a full-time student at Solent University completing my Software Engineering degree, I’m currently averaging a first across my modules. I have ambitions to further my education with a masters degree in Cybersecurity. Please find my assessment repos within this account.
 
-# About this account
+## About this account
 I have created this professional profile to archive exemplar projects from my personal and academic profiles, BEELZEBLUBBER and 4kitsw10 respectively. Here you will find a collection of microservices that compose my homebrew Game Engine alongside my academic assessment projects. 
 
 Thank you for your time, please feel free to explore my work to your hearts content!
